@@ -1,4 +1,3 @@
 module.exports = {
-    secret: 'Ton',
-    ddaL:'dda'
+    secret: 'Ton'
 }
